@@ -1,0 +1,36 @@
+{
+  "title": "Seni Lukis Sunda Kuna Jaman Pajajaran",
+  "status": "draf panalungtikan",
+  "folder": "seni-buana/seni-lukis-sunda-kuno-padjadjaran",
+  "source_protocol": "A/B/C/D/E/F/X",
+  "claims": [
+    {
+      "id": "SSKK-LUKIS-001",
+      "source": "Sanghyang Siksa Kandang Karesian",
+      "keywords": ["tulis", "lukis", "pelukis", "pupunjengan", "hihinggulan", "kekembangan", "alas-alasan", "kembang tarate"],
+      "level": "A/B/C depending on access",
+      "status": "kuat pikeun ayana istilah; motif perlu verifikasi"
+    },
+    {
+      "id": "CRP-BALE-TULIS-001",
+      "source": "Carita Ratu Pakuan",
+      "keywords": ["bale watangan", "bale tulis"],
+      "level": "A/B/C/E depending on access",
+      "status": "kuat minangka data istilah; fungsi ruang perlu verifikasi"
+    },
+    {
+      "id": "CP-BALE-BOBOT-001",
+      "source": "Carita Parahyangan",
+      "keywords": ["bale bobot", "tinulis", "pinarada", "warnana", "cacaritaan"],
+      "level": "A/C depending on access",
+      "status": "kuat pikeun hiasan tulis, warna, carita"
+    },
+    {
+      "id": "FALAK-BUDHA-001",
+      "source": "RAS Raffles Java 1 / Falak Budha",
+      "keywords": ["rasi", "zodiak", "tabel", "ilustrasi"],
+      "level": "B/C/A depending on access",
+      "status": "kuat pikeun gambar naskah kosmologis; hubungan Pajajaran kudu diwatesan"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-# 10 — Seni Lukis Sunda Kuna Jaman Pajajaran
+# 10  Seni Lukis Sunda Kuna Jaman Pajajaran
 
 > **Pancer:** ieu dokumen mangrupakeun node anyar dina runtuyan Maca Tina Buana. Eusina ngeunaan data awal seni visual Sunda Kuna jaman Pajajaran, hubungan jeung tulis, lukis, balé tulis, carita visual, sumber naskah, jeung watesan panalungtikan.
 

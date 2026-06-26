@@ -6,10 +6,10 @@ File ieu ngaganti cara baca serpihan `bagian-*` anu matak ngabingungkeun.
 
 1. `00-index-konsolidasi.md` — peta baca anyar.
 2. `01-daftar-naskah-valid.md` — daftar naskah jeung status valid, henteu make status ditunda keur naskah anu geus jelas aya.
-3. `02-istilah-suci-konsep.md` — istilah suci jeung konsep dasar.
-4. `03-laku-adat-ritual.md` — laku adat, ritual, jeung catetan watesan.
+3. `02-istilah-konsep-valid.md` — istilah jeung konsep dasar anu dibaca dina konteks sumber.
+4. `03-laku-adat-ritual-valid.md` — laku adat, ritual, jeung catetan watesan.
 5. `04-ahung-verifikasi.md` — catetan Ahung jeung verifikasi.
-6. `05-kode-kapastian.md` — protokol A/B/C/D/E/F/X.
+6. `05-kode-kapastian-jeung-rujukan.md` — protokol A/B/C/D/E/F/X.
 
 ## Ulah Paké File Serpihan
 
